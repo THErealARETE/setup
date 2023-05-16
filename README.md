@@ -5,7 +5,7 @@ New PC Work Setup
 
 Intelijj - https://www.jetbrains.com/idea/download/download-thanks.html?platform=macM1&code=IIC
 
-PGAdmin - 
+PGAdmin -  https://www.postgresql.org/ftp/pgadmin/pgadmin4/v7.1/macos/
 
 Postman - 
 
